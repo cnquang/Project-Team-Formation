@@ -1,0 +1,10 @@
+Own1;long;nhat;software engineer;nhatlong@gmail.com;C1
+Own2;nhat;quang;hardware engineer;nhatquang@gmail.com;C3
+Own3;tom;marry;cybersecurity;marry@gmail.com;C5
+Own4;henry;tran;hardware engineer;henry@gmail.com;C7
+Own5;david;nguyen;software engineer;david@gmail.com;C9
+Own6;anthomy;lu;hardware engineer;anthomy@gmail.com;C2
+Own7;hoang;long;cybersecurity;hoang@gmail.com;C4
+Own8;loan;hang;hardware engineer;hang@gmail.com;C6
+Own9;king;kong;software engineer;king@gmail.com;C8
+Own10;kevin;ly;cybersecurity;kevin@gmail.com;C10

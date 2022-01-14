@@ -1,0 +1,10 @@
+C1;Oberlo;11223344556;oberlo.com;76 Glengala Rd Sunshine West VIC 3020
+C2;Shopify;22334455667;shopify.com;5 Lanark Pl Deer Park VIC 3023
+C3;Cool;33445566778;cool.com;87 Boundary Rd Laverton North VIC 3026
+C4;Mesh;44556677881;mesh.com;620 Victoria St Richmond VIC 3121
+C5;Wordlab;55667788990;wordlab.com;48 Easey St Collingwood VIC 3066
+C6;Freshbooks;13579246801;freshbooks.com;47 Nicholson St Brunswick East VIC 3057
+C7;Getsocio;37920746253;getsocio.com;124 Waterdale Rd Ivanhoe VIC 3079
+C8;Brand;19374517384;brand.com;328 Hoddle St Abbotsford VIC 3067
+C9;Facebook;93846281927;facebook.com;110 Dougharty Rd Heidelberg West VIC 3081
+C10;Rhino;98462714638;rhino.com;41 Gerbert St, Broadmeadows VIC

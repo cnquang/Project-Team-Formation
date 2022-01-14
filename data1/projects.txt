@@ -1,0 +1,50 @@
+CUSTOMER RELATIONSHIP MANAGEMENT (CRM)
+Pr1
+CRM will be developed by a team of 4 using Yii framework
+Own10
+W 4 P 3 N 2 A 1
+CYBER SECURITY
+Pr2
+CS will be developed by a team of 4 using backdoor
+Own9
+N 4 W 3 P 2 A 1
+ROLES OF MOBILE BANKING IN ENHANCING CUSTOMER SATISFACTION
+Pr3
+The project will apply cutting edge technology
+Own8
+P 4 N 3 W 2 A 1
+THE FUTURE OF DATABASE MANAGEMENT IN THE ERA OF BIG DATA
+Pr4
+Applying big data and machine learning
+Own7
+A 4 P 3 N 2 W 1
+COMPUTER NETWORKING USING WIRELESS NETWORK
+Pr5
+This project will focus in 5G
+Own6
+W 4 N 3 P 2 A 1
+THE IMPACT OF INTERNET AND THE WAY IT INFLUENCE STUDENTS READING CULTURE
+Pr6
+Analysing big data
+Own5
+A 4 P 3 N 2 W 1
+HOW TO PREVENT COMPUTER SYSTEM INFECTION
+Pr7
+We will work with firewall
+Own4
+N 4 P 3 W 2 A 1
+ETHICAL HACKING
+Pr8
+Advanced step-by-step methodologies that hackers actually use
+Own3
+N 4 P 3 A 2 W 1
+SOCIAL MEDIA ENTERPRENURESHIP AS A TOOL FOR NATIONAL DEVELOPMENT
+Pr9
+Applying Facebook
+Own2
+W 4 A 3 N 2 P 1
+PREDICTING STUDENTS PERFORMANCE USING ARTIFICIAL NEURAL NETWORK
+Pr10
+Applying machine learning and AI
+Own1
+P 4 A 3 N 2 W 1
